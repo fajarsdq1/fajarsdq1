@@ -1,11 +1,6 @@
-
-<div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://ibb.co.com/svXQgNLN)"  />
-</div>
-
 ###
 
-<h1 align="left">Hello World! I'm FAJAR</h1>
+<h1 align="left">Fajar Sodik S.T
 
 ###
 
