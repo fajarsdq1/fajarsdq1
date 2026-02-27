@@ -1,10 +1,10 @@
 ###
 
-<h1 align="left">Fajar Sodik S.T
+<h1 align="left">Hello! I'm FAJAR
 
 ###
 
-<p align="left">Software Engineer</p>
+<p align="left">Web Developer | Software Engineer | Information Systems Enthusiast | Lifelong Learner</p>
 
 ###
 
